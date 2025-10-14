@@ -1,0 +1,61 @@
+//   {
+//     "date": "2025-09-05",
+//     "movie": "Interstellar",
+//     "review": "Epic and emotional, though quiet scenes were hard to hear. Great visuals, flat soda."
+//   },
+//   {
+//     "date": "2025-09-06",
+//     "movie": "Joker",
+//     "review": "Powerful performance, uneven character arc. Theater vibe matched tone, but noisy restroom ruined mood."
+//   },
+//   {
+//     "date": "2025-09-07",
+//     "movie": "Forrest Gump",
+//     "review": "Heartfelt and nostalgic. Southern snacks were clever, but overly plush seats led to naps."
+//   },
+//   {
+//     "date": "2025-09-08",
+//     "movie": "The Godfather",
+//     "review": "Masterful storytelling, some scenes dragged. Italian decor was immersive, garlic fries overwhelming."
+//   },
+//   {
+//     "date": "2025-09-09",
+//     "movie": "Pulp Fiction",
+//     "review": "Stylish and bold. Diner-style seats were sticky, but themed milkshakes were a hit."
+//   },
+//   {
+//     "date": "2025-09-10",
+//     "movie": "The Shawshank Redemption",
+//     "review": "Deeply moving with a perfect ending. Prison-themed decor was clever, staff a bit too strict."
+//   },
+//   {
+//     "date": "2025-09-11",
+//     "movie": "The Dark Knight",
+//     "review": "Ledger’s Joker is unforgettable. Theater sound system was flawless, but the snack prices were criminal."
+//   },
+//   {
+//     "date": "2025-09-12",
+//     "movie": "Frozen",
+//     "review": "Only went for the kids. Chairs were sticky, but the ice cream stand was a hit."
+//   },
+//   {
+//     "date": "2025-09-13",
+//     "movie": "Inception",
+//     "review": "Didn’t watch a movie, just visited. Staff were friendly, seats clean, but the lobby smelled like burnt popcorn."
+//   },
+//   {
+//     "date": "2025-09-14",
+//     "movie": "The Grand Budapest Hotel",
+//     "review": "Whimsical and beautifully shot. Theater matched the quirky vibe, though the screen had a faint flicker."
+//   },
+//   {
+//     "date": "2025-09-15",
+//     "movie": "The Dark Knight",
+//     "review": "Excellent sound and clean restrooms."
+//   },
+//   {
+//     "date": "2025-09-16",
+//     "movie": "Whiplash",
+//     "review": "Intense and brilliantly acted. The tension never lets up, and the final scene is unforgettable."
+//   }
+// ]

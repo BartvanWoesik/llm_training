@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "film": "Star Wars",
+    "date": "2025-10-15",
+    "time": "8:30 PM",
+    "seats": 3
+  },
+  {
+    "name": "John Doe",
+    "film": "Star Wars",
+    "date": "2025-10-15",
+    "time": "8:30 PM",
+    "seats": 3
+  },
+  {
+    "name": "Bart van Woesik",
+    "film": "Star Wars",
+    "date": "2025-10-16",
+    "time": "8:30 PM",
+    "seats": 3
+  },
+  {
+    "name": "Bart van Woesik",
+    "film": "Star Wars",
+    "date": "2025-10-16",
+    "time": "8:30 PM",
+    "seats": 3
+  }
+]

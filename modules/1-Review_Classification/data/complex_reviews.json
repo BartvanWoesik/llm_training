@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2025-09-01",
+    "movie": "Inception",
+    "review": "Visually stunning and intellectually rich, though the broken recliner distracted. Staff were helpful, popcorn stale."
+  },
+  {
+    "date": "2025-09-02",
+    "movie": "Titanic",
+    "review": "Emotional but slow-paced. Theater decor matched the theme, but freezing AC made it hard to enjoy."
+  },
+  {
+    "date": "2025-09-03",
+    "movie": "The Matrix",
+    "review": "Groundbreaking action and ideas. Laser projection was sharp, but squeaky seats ruined immersion."
+  },
+  {
+    "date": "2025-09-04",
+    "movie": "Avatar",
+    "review": "Beautiful visuals, predictable story. Jungle-themed lobby was fun, but 3D glasses were dirty."
+  }
+]

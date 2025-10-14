@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2025-09-01",
+    "movie": "Inception",
+    "review": "Amazing visuals and mind-bending plot."
+  },
+  {
+    "date": "2025-09-02",
+    "movie": "Titanic",
+    "review": "The pacing felt too slow."
+  },
+  {
+    "date": "2025-09-03",
+    "movie": "The Matrix",
+    "review": "Innovative action sequences."
+  },
+  {
+    "date": "2025-09-04",
+    "movie": "Avatar",
+    "review": "The story was predictable."
+  },
+  {
+    "date": "2025-09-05",
+    "movie": "Interstellar",
+    "review": "Stunning cinematography."
+  },
+  {
+    "date": "2025-09-06",
+    "movie": "Joker",
+    "review": "The character development was lacking."
+  },
+  {
+    "date": "2025-09-07",
+    "movie": "Forrest Gump",
+    "review": "Heartwarming and inspirational."
+  },
+  {
+    "date": "2025-09-08",
+    "movie": "The Godfather",
+    "review": "Some scenes felt unnecessarily long."
+  },
+  {
+    "date": "2025-09-09",
+    "movie": "Pulp Fiction",
+    "review": "Unique storytelling style."
+  },
+  {
+    "date": "2025-09-10",
+    "movie": "The Shawshank Redemption",
+    "review": "The ending was very satisfying."
+  }
+]
