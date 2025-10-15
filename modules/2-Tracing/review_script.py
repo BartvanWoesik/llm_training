@@ -5,18 +5,18 @@ from typing import List
 from enum import Enum
 from dotenv import load_dotenv
 
-import mlflow
 import pandas as pd
 from langchain.output_parsers import PydanticOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import AzureChatOpenAI
-from mlflow.entities import SpanType
 from pydantic import BaseModel, Field, field_validator
 
 
 load_dotenv()
 
 # Enable mlflow langchain autologging
+import mlflow
+from mlflow.entities import SpanType
 mlflow.langchain.autolog()
 mlflow.set_experiment("review_analyses")
 
