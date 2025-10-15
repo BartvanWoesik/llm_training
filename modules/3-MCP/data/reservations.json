@@ -26,5 +26,19 @@
     "date": "2025-10-16",
     "time": "8:30 PM",
     "seats": 3
+  },
+  {
+    "name": "Bart",
+    "film": "Titanic",
+    "date": "2024-06-10",
+    "time": "20:30",
+    "seats": 2
+  },
+  {
+    "name": "Bart",
+    "film": "Titanic",
+    "date": "2024-06-10",
+    "time": "20:30",
+    "seats": 2
   }
 ]
